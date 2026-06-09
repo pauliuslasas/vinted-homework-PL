@@ -78,7 +78,7 @@ Done, the project should out put somehting like this:
 # Running tests
 ----------------------------
 For testing `jest` library was used, to run **all tests** just type `npm test`.
-To run individual tests the easiest way is to install a `Jest runner` extension and then just pren **Run** on top of the test which you want to run.
+To run individual tests the easiest way is to install a `Jest runner` extension and then just press **Run** on top of the test which you want to run.
 
 There are 5 test files:
 1. `parsing.test.ts` validates input parsing
